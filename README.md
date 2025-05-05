@@ -1,3 +1,3 @@
-# bloc_mvvm_project
+# Bloc MVVM Template Formate
 
 A new Flutter project.
